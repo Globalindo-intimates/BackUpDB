@@ -34,3 +34,9 @@ Run Script
 $gunzip -k namaDatabase
 
     $gunzip -k database_Report-GI_19-06-2020.sql.gz 
+
+* cara menghapus file archive db di Linux
+
+    $rm -rf < nama-file > 
+
+    exp. $rm -rf database_Report-GI_19-06-2020.sql.gz
